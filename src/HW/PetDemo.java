@@ -1,5 +1,4 @@
 package HW;
-import java.util.Scanner;
 public class PetDemo {
 
     public static void main (String [] args) {
@@ -35,31 +34,6 @@ public class PetDemo {
         System.out.println("The average age of the five pets: " +
                 (jeff.getAge() + webster.getAge() + casey.getAge() + noel.getAge() +
                         carnex.getAge()) / (5) + " years old ");
-
-
-
-
-
-
-
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-
-
-
-
-
-
-
-
 
     }
 }
